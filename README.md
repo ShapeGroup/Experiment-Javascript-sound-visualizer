@@ -1,6 +1,6 @@
 # Js Experiment
 
-## experimental javascript sound bars visualizer
+## experimental soundbar visualizer
 
 EXPERIMENTAL : *CLOSED - NOT WORKING*
 
